@@ -1,0 +1,24 @@
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\Client.dll
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\Client.pdb
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\Newtonsoft.Json.dll
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\System.Net.Http.Formatting.dll
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\ViewModels.dll
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\ViewModels.pdb
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\Newtonsoft.Json.xml
+E:\Rajneesh\Projects\CGArchitecture\Client\bin\Debug\System.Net.Http.Formatting.xml
+E:\Rajneesh\Projects\CGArchitecture\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Rajneesh\Projects\CGArchitecture\Client\obj\Debug\Client.dll
+E:\Rajneesh\Projects\CGArchitecture\Client\obj\Debug\Client.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\Client.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\Client.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\ViewModels.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\ViewModels.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\obj\Debug\Client.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\obj\Debug\Client.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache

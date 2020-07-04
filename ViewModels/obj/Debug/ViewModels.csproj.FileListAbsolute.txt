@@ -1,0 +1,10 @@
+E:\Rajneesh\Projects\CGArchitecture\ViewModels\bin\Debug\ViewModels.dll
+E:\Rajneesh\Projects\CGArchitecture\ViewModels\bin\Debug\ViewModels.pdb
+E:\Rajneesh\Projects\CGArchitecture\ViewModels\obj\Debug\ViewModels.dll
+E:\Rajneesh\Projects\CGArchitecture\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache

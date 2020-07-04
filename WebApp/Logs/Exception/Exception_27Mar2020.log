@@ -1,0 +1,51 @@
+27-Mar-2020 05:02:52
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+
+27-Mar-2020 05:04:30
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+
+27-Mar-2020 05:04:54
+WebApp.Controllers.ProductController
+The document has no pages.
+_____________________________________________________
+
+27-Mar-2020 05:08:50
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+
+27-Mar-2020 05:12:01
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+
+27-Mar-2020 05:16:04
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Print(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+
+27-Mar-2020 05:16:34
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+
+27-Mar-2020 05:53:13
+WebApp.Controllers.ProductController
+Cannot access a closed Stream.
+_____________________________________________________
+
+27-Mar-2020 06:12:38
+WebApp.Controllers.ProductController
+Cannot access a closed Stream.
+_____________________________________________________
+
+27-Mar-2020 06:13:59
+WebApp.Controllers.ProductController
+PDF header signature not found.
+_____________________________________________________
+

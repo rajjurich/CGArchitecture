@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Report";
+}
+
+<h2>Report</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="tbl" class="table datatable display">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+
+            <th>
+                Product Price
+            </th>
+           
+        </tr>
+    </thead>    
+</table>
+@section Scripts {
+    <script>
+        var uri = '@System.Configuration.ConfigurationManager.AppSettings["uri"].ToString()';
+        $(document).ready(function () {
+            $(".datatable").DataTable({
+                dom: 'Bfrtip',
+                lengthMenu: [
+                    [10, 25, 50, -1],
+                    ['10 rows', '25 rows', '50 rows', 'Show all']
+                ],
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print','pageLength'
+                ],
+                ajax: {
+                    url: uri + "/api/Product/Report",
+                    type: "POST",
+                    dataType: "JSON",
+                },
+                columns: [
+                    { 'data': 'ProductName' },
+                    { 'data': 'ProductPrice' }
+                ],
+                bServerSide: true,
+                processing:true,
+                searching: true,
+                ordering: true,
+                paging: true,
+            });
+        });
+    </script>
+}
+

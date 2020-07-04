@@ -1,0 +1,96 @@
+24-Mar-2020 10:54:32
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 10:58:25
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:00:53
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:12:10
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (A).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:19:04
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:20:48
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:22:39
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:24:41
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:28:02
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 11:29:02
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 03:44:16
+WebApi.Controllers.FileUploadController
+Cannot create a file when that file already exists.
+
+_____________________________________________________
+
+24-Mar-2020 03:45:41
+WebApi.Controllers.FileUploadController
+Cannot create a file when that file already exists.
+
+_____________________________________________________
+
+24-Mar-2020 05:21:41
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 05:22:05
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 05:34:00
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a).
+The statement has been terminated.
+_____________________________________________________
+
+24-Mar-2020 05:38:16
+WebApi.Controllers.ProductController
+Violation of UNIQUE KEY constraint 'UC_Product'. Cannot insert duplicate key in object 'dbo.Product'. The duplicate key value is (a, <NULL>).
+The statement has been terminated.
+_____________________________________________________
+

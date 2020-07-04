@@ -1,0 +1,66 @@
+26-Mar-2020 01:36:04
+WebApi.Controllers.ProductController
+No property or field 'asc' exists in type 'Product'
+_____________________________________________________
+
+26-Mar-2020 01:57:07
+WebApi.Controllers.ProductController
+No property or field 'asc' exists in type 'ProductResponseModel'
+_____________________________________________________
+
+26-Mar-2020 01:57:33
+WebApi.Controllers.ProductController
+No property or field 'asc' exists in type 'ProductResponseModel'
+_____________________________________________________
+
+26-Mar-2020 01:58:05
+WebApi.Controllers.ProductController
+No property or field 'asc' exists in type 'ProductResponseModel'
+_____________________________________________________
+
+26-Mar-2020 02:00:07
+WebApi.Controllers.ProductController
+Value cannot be null.
+Parameter name: ordering
+_____________________________________________________
+
+26-Mar-2020 02:00:15
+WebApi.Controllers.ProductController
+Value cannot be null.
+Parameter name: ordering
+_____________________________________________________
+
+26-Mar-2020 02:00:55
+WebApi.Controllers.ProductController
+Value cannot be null.
+Parameter name: ordering
+_____________________________________________________
+
+26-Mar-2020 02:02:24
+WebApi.Controllers.ProductController
+The method 'Skip' is only supported for sorted input in LINQ to Entities. The method 'OrderBy' must be called before the method 'Skip'.
+_____________________________________________________
+
+26-Mar-2020 03:09:37
+WebApi.Controllers.ProductController
+Expression expected
+_____________________________________________________
+
+26-Mar-2020 04:47:43
+WebApi.Controllers.ProductController
+Limit must have a non-negative value.
+Parameter name: count
+_____________________________________________________
+
+26-Mar-2020 04:47:59
+WebApi.Controllers.ProductController
+Limit must have a non-negative value.
+Parameter name: count
+_____________________________________________________
+
+26-Mar-2020 04:48:26
+WebApi.Controllers.ProductController
+Limit must have a non-negative value.
+Parameter name: count
+_____________________________________________________
+

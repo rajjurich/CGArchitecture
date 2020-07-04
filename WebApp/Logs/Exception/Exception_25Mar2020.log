@@ -1,0 +1,31 @@
+25-Mar-2020 11:28:16
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+
+25-Mar-2020 11:39:50
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Edit(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+
+25-Mar-2020 11:41:26
+WebApp.Controllers.ProductController
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\Views\Product\Details.cshtml(56): error CS0103: The name 'item' does not exist in the current context
+_____________________________________________________
+
+25-Mar-2020 11:41:39
+WebApp.Controllers.ProductController
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\Views\Product\Details.cshtml(56): error CS0103: The name 'item' does not exist in the current context
+_____________________________________________________
+
+25-Mar-2020 11:41:47
+WebApp.Controllers.ProductController
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\Views\Product\Details.cshtml(56): error CS0103: The name 'item' does not exist in the current context
+_____________________________________________________
+
+25-Mar-2020 11:42:26
+WebApp.Controllers.ProductController
+Object reference not set to an instance of an object.
+_____________________________________________________
+

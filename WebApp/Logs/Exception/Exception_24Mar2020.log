@@ -1,0 +1,75 @@
+24-Mar-2020 12:27:45
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 12:29:16
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 12:33:22
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 12:42:47
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 12:44:08
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 12:51:24
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 12:52:05
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 01:51:16
+WebApp.Controllers.ProductController
+Timeouts are not supported on this stream.
+_____________________________________________________
+
+24-Mar-2020 02:33:57
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Details(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+
+24-Mar-2020 02:55:55
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Details(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+
+24-Mar-2020 03:40:44
+WebApp.Controllers.ProductController
+No MediaTypeFormatter is available to read an object of type 'Boolean' from content with media type 'text/html'.
+_____________________________________________________
+
+24-Mar-2020 05:21:06
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Edit(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+
+24-Mar-2020 05:22:33
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Edit(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+
+24-Mar-2020 05:32:53
+WebApp.Controllers.ProductController
+The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Threading.Tasks.Task`1[System.Web.Mvc.ActionResult] Delete(Int32)' in 'WebApp.Controllers.ProductController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+_____________________________________________________
+

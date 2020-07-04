@@ -1,0 +1,101 @@
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\csc.exe
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\vbc.exe
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\VBCSCompiler.exe
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\WebApp.dll.config
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\WebApp.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\WebApp.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Antlr3.Runtime.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Client.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Logger.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Newtonsoft.Json.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Net.Http.Formatting.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Helpers.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Mvc.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Optimization.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Razor.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.WebPages.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.WebPages.Razor.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\ViewModels.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\WebGrease.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Client.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Logger.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\ViewModels.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Net.Http.Formatting.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Helpers.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Mvc.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Optimization.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.Razor.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.WebPages.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\System.Web.WebPages.Razor.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Antlr3.Runtime.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApp\bin\Newtonsoft.Json.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\Rajneesh\Projects\CGArchitecture\WebApp\obj\Debug\WebApp.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\csc.exe
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\vbc.exe
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\WebApp.dll.config
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\WebApp.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\WebApp.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Client.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Logger.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Razor.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\ViewModels.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\WebGrease.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Client.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Logger.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\ViewModels.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.Razor.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\obj\Debug\WebApp.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\itextsharp.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\itextsharp.xmlworker.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\bin\itextsharp.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+27-Mar-2020 11:42:20
+WebApi.Controllers.ProductController
+Value cannot be null.
+Parameter name: ordering
+_____________________________________________________
+
+27-Mar-2020 12:30:58
+WebApi.Controllers.ProductController
+Limit must have a non-negative value.
+Parameter name: count
+_____________________________________________________
+
+27-Mar-2020 01:14:05
+WebApi.Controllers.ProductController
+No property or field 'asc' exists in type 'Product'
+_____________________________________________________
+
+27-Mar-2020 01:34:16
+WebApi.Controllers.ProductController
+Expression expected
+_____________________________________________________
+

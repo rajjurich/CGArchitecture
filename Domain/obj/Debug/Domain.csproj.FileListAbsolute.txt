@@ -1,0 +1,22 @@
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\Domain.dll.config
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\Domain.dll
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\Domain.pdb
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\EntityFramework.dll
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\EntityFramework.xml
+E:\Rajneesh\Projects\CGArchitecture\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Rajneesh\Projects\CGArchitecture\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Rajneesh\Projects\CGArchitecture\Domain\obj\Debug\Domain.dll
+E:\Rajneesh\Projects\CGArchitecture\Domain\obj\Debug\Domain.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\Domain.dll.config
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\Domain.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\Domain.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\obj\Debug\Domain.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\obj\Debug\Domain.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache

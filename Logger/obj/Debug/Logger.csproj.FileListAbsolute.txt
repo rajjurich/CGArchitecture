@@ -1,0 +1,10 @@
+E:\Rajneesh\Projects\CGArchitecture\Logger\bin\Debug\Logger.dll
+E:\Rajneesh\Projects\CGArchitecture\Logger\bin\Debug\Logger.pdb
+E:\Rajneesh\Projects\CGArchitecture\Logger\obj\Debug\Logger.dll
+E:\Rajneesh\Projects\CGArchitecture\Logger\obj\Debug\Logger.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Logger\bin\Debug\Logger.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Logger\bin\Debug\Logger.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Logger\obj\Debug\Logger.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Logger\obj\Debug\Logger.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache

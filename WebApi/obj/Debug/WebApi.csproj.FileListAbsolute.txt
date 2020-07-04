@@ -1,0 +1,179 @@
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\csc.exe
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\vbc.exe
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\WebApi.dll.config
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\WebApi.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\WebApi.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Antlr3.Runtime.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Domain.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\EntityFramework.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\EntityFramework.SqlServer.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Logger.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Newtonsoft.Json.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Owin.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Swashbuckle.Core.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Net.Http.Formatting.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Helpers.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Http.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Http.Owin.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Http.WebHost.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Mvc.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Optimization.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Razor.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.WebPages.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\ViewModels.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\WebActivatorEx.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\WebGrease.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Domain.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Logger.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\ViewModels.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Newtonsoft.Json.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Net.Http.Formatting.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Helpers.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Http.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Http.WebHost.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Mvc.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Optimization.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Razor.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.WebPages.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Antlr3.Runtime.pdb
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\EntityFramework.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\EntityFramework.SqlServer.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\bin\System.Web.Http.Owin.xml
+E:\Rajneesh\Projects\CGArchitecture\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\Rajneesh\Projects\CGArchitecture\WebApi\obj\Debug\WebApi.dll
+E:\Rajneesh\Projects\CGArchitecture\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\csc.exe
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\vbc.exe
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\WebApi.dll.config
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\WebApi.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\WebApi.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Domain.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\EntityFramework.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Logger.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Owin.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Swashbuckle.Core.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Linq.Dynamic.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Cors.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Razor.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\ViewModels.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\WebActivatorEx.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\WebGrease.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Domain.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Domain.dll.config
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Logger.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\ViewModels.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Razor.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\EntityFramework.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\obj\Debug\WebApi.dll
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rajju\Google Drive\PROJECTS\Development\CGArchitecture\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
